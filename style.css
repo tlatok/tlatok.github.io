@@ -1,0 +1,15 @@
+body{
+	background-color: #75EDF5;
+}
+label, #one{
+	cursor:pointer;
+}
+
+h1{
+	color:#300E38;
+	font-weight: 100;
+}
+
+#magic{
+	border:2px solid brown;
+}
